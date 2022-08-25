@@ -1,0 +1,2 @@
+target all:
+	gcc -Wall main.c -o main.exe
